@@ -1,5 +1,5 @@
 sequential_WF
-.env/
+.env
 __pycache__/
 chroma_hr_db/
 Escalation_folder/
