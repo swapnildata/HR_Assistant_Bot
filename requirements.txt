@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-core
+dotenv
+PyYAML
+pydantic
+langchain_groq
+langchain_community
+langchain_huggingface
+pypdf
+sentence-transformers
+chromadb
+langchain_mcp_adapters

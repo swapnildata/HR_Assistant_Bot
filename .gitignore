@@ -1,0 +1,8 @@
+sequential_WF
+.env/
+__pycache__/
+chroma_hr_db/
+Escalation_folder/
+px_assistant/
+HR-Policies-Manuals.pdf
+
